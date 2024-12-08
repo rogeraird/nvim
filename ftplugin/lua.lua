@@ -1,1 +1,2 @@
-vim.bo.tabstop = 4
+local set = vim.opt_local
+set.tabstop = 4
